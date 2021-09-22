@@ -15,9 +15,9 @@ public class MakingBabies
 				
 				
 				
-				System.out.println("My first baby's name is " + myB1.name);
+				System.out.println("My first baby's name is " + myB1.getName());
 				
-				if(myB1.isGirl)
+				if(myB1.isGirl())
 					{
 						System.out.println("She's gorgeous!");
 					}
