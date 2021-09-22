@@ -17,6 +17,11 @@ public class MakingBabies
 				
 				System.out.println("My first baby's name is " + myB1.getName());
 				
+				myB1.setName("Roxanne");
+				
+				System.out.println("My first baby's new name is " + myB1.getName());
+				
+				
 				if(myB1.isGirl())
 					{
 						System.out.println("She's gorgeous!");
